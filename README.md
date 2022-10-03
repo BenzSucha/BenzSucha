@@ -17,7 +17,10 @@ I am also a freelance Photographer. You can check out me at Linkedin https://www
         <p>
             "Hello My name is Benz.
             I live in the Bay Area, California"
-            <img src="Benz proflie.JPG"/>
+            <a href="https://user-images.githubusercontent.com/114890026/193489421-3d2c8452-9c07-45c9-922f-956d42cd2182.JPG"></a>
         </p>
     </body>
 </html>
+
+
+![Benz proflie](https://user-images.githubusercontent.com/114890026/193489421-3d2c8452-9c07-45c9-922f-956d42cd2182.JPG)
