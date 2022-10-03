@@ -1,8 +1,15 @@
-Hi there! My name is Suchasinee, you can call me Benz. I'm from Thailand. I have been living in Palo Alto, California for years. 
-I studied UX/UI Design and I am really like and enjoy created UI. 
-For my interesting I want to know better how to create my own website with my own design. 
-I want to learn more about CSS so now I am studying Front End Developer. 
-I am also a freelance Photographer. You can check out me at Linkedin https://www.linkedin.com/in/suchasinee-o-9ab4791b1/ or My Photography Website https://www.benzzphotographer.com/
+### Hi there 👋, I'm Suchasinee Onjantuek. 
+#### You can call me "Benz", this is my nick name
+I'm from Thailand. I have been living in Palo Alto, California for years. I studied UX/UI Design and I really like and enjoy creating UI. For my interest, I want to know better how to create my own website with my own design. I want to learn more about CSS so now I am studying Front End Developer. I am also a freelance Photographer. You can check out me on Linkedin https://www.linkedin.com/in/suchasinee-o-9ab4791b1/ or My Photography Website https://www.benzzphotographer.com/
+
+Skills:  REACT / JS / HTML / CSS/ FIGMA
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenzzSucha)](https://github.com/anuraghazra/github-readme-stats)
 
