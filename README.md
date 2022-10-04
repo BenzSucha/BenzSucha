@@ -5,20 +5,11 @@ I'm from Thailand. I have been living in Palo Alto, California for years. I stud
 Skills: JS / HTML / CSS/ FIGMA
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BenzzSucha)](https://github.com/anuraghazra/github-readme-stats)
-
 <html>
-<head>
-    <style>
-        img {
-            width: 100px; height: 100px;
-            border-radius: 80px;
-            float: left;
-            margin-right: 15px;
-        }
-    </style>
-</head>
+
+<head> My Youtube "https://youtu.be/93vm4TXcmGk"
 <body>
+
   img <a href="https://user-images.githubusercontent.com/114890026/193489421-3d2c8452-9c07-45c9-922f-956d42cd2182.JPG"></a>
   <p style="color:black;">@Benz Suchasinee </p>
 
