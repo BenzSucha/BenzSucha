@@ -2,7 +2,7 @@
 #### You can call me "Benz", this is my nick name
 I'm from Thailand. I have been living in Palo Alto, California for years. I studied UX/UI Design and I really like and enjoy creating UI. For my interest, I want to know better how to create my own website with my own design. I want to learn more about CSS so now I am studying Front End Developer. I am also a freelance Photographer. You can check out me on Linkedin https://www.linkedin.com/in/suchasinee-o-9ab4791b1/ or My Photography Website https://www.benzzphotographer.com/
 
-Skills: JS / HTML / CSS/ FIGMA
+## Skills: JS / HTML / CSS/ FIGMA
 
 
 <html>
